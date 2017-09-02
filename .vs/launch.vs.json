@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "cwd": "${workspaceRoot}",
+      "name": "Launch Program",
+      "program": "${workspaceRoot}/bin/www",
+      "protocol": "inspector",
+      "request": "launch",
+      "type": "node"
+    }
+  ],
+  "version": "0.2.0"
+}
